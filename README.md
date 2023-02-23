@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 - What was your motivation?
 
 I wanted a change of career, direction, and an overall better outlook to my future.
@@ -22,8 +20,6 @@ I rediscovered some coding terms and have also added to the ones I've already kn
 
 ## Table of Contents (Optional)
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
@@ -31,17 +27,9 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
 N/A
 
 ## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
 
 This web application is a guide for those who are starting and/or taking an interest into coding. It contains references to the 3 main languages that coders use and an easy-to-use site which is HTML (HyperText Markup Language), CSS (Cascasing Style Sheets), JavaScript, and Git. There will be explanations or terminology of each language under their respective locations. The purposes of this guide can be used for future referencing .
 
@@ -51,21 +39,9 @@ Can continually be added onto as a space for note taking to look back on when in
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
-
 N/A
 
 ## License
-
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
 
 Please refer to the LICENSE in the repo.
 
