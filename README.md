@@ -1,5 +1,13 @@
 # Prework Study Guide Webpage
 
+## Table of Contents
+
+- [Description](#Description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+
 ## Description
 
 - What was your motivation?
@@ -17,13 +25,6 @@ Technology is evolving quickly as time goes by and I am here to learn with it.
 - What did you learn?
 
 I rediscovered some coding terms and have also added to the ones I've already known. In addition, I've learned about what each part of a web application does so when I go to any website, I can understand how each part was used effectively.
-
-## Table of Contents (Optional)
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
 
 ## Installation
 
